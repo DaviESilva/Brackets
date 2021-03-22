@@ -12,3 +12,23 @@
     border-radius: 50%;
     height: 200px;
 }
+
+.sec {
+    margin: 0 15%;
+    text-align: justify;
+}
+
+.tes {
+    animation: go-back 2.4s;
+}
+
+
+
+@keyframes go-back {
+    0% {
+        transform: translateX(100px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
