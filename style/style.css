@@ -4,26 +4,34 @@
     box-sizing: border-box;
 }
 
-.profile {
-    margin-top: 40px;
-}
 
 .profile img {
     border-radius: 50%;
     height: 200px;
 }
 
-.sec {
-    margin: 0 15%;
-    text-align: justify;
-}
 
 .tes {
     animation: go-back 2.4s;
 }
 
+/* QUESTION */
+.vertical-center { 
+  min-height: 80%;  
+  min-height: 80vh; 
+
+  display: flex;
+  align-items: center;
+}
+
+.btn-primary {
+    background-color: #F2994A;
+    border: #F2994A;
+    font-weight: bold;
+}
 
 
+/* ANIMATION */
 @keyframes go-back {
     0% {
         transform: translateX(100px);

@@ -11,7 +11,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="/style/style.css">
 
     <title>Question</title>
 </head>
@@ -24,12 +24,27 @@
 
     <main>
 
-        <section>
+        <section class="vertical-center ">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
+                        <h6>Para onde deseja ir? </h6>
 
-                        
+                        <select class="form-select" aria-label="Default select example">
+                            <option selected>Escolha uma opção</option>
+                            <option value="1">Viagem nacional</option>
+                            <option value="2">Para o exterior</option>
+                            <option value="3">Ainda não decidi</option>
+                        </select>
+
+
+                        <div class="text-end tes mt-3">
+                            <a href="/components/question-three.html">
+                                <button class="btn btn-primary">
+                                    Próximo
+                                </button>
+                            </a>
+                        </div>
 
                     </div>
                 </div>
