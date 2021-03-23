@@ -32,6 +32,7 @@
 
 /* PERFIL */
 
+
 .nav{
     text-align: center;
     place-items: center;
@@ -44,12 +45,16 @@
 
 .profi img {
     border-radius: 50%;
-    width: 50%;
+    width: 80%;
 }
 
 .bandeira {
-    width: 10%;
+    width: 20%;
     
+}
+
+.card-img img{
+    width: 250px;
 }
 
 /* ANIMATION */
