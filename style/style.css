@@ -31,12 +31,15 @@
 }
 
 /* PERFIL */
-
+.head {
+    background: #fff;
+}
 
 .nav{
     text-align: center;
     place-items: center;
     display: grid;
+    
 }
 
 .nav img {
@@ -45,7 +48,7 @@
 
 .profi img {
     border-radius: 50%;
-    width: 80%;
+    width: 70%;
 }
 
 .bandeira {
@@ -55,6 +58,19 @@
 
 .card-img img{
     width: 250px;
+}
+/* FINALLY */
+
+.reset-width {
+    height: 400px;
+}
+
+.vertical {
+ min-height: 100%;  
+  min-height: 100vh; 
+
+  display: flex;
+  align-items: center;
 }
 
 /* ANIMATION */
