@@ -46,3 +46,5 @@ A <strong>Brackets</strong> vem com uma proposta de ajudar voçê a ter a sua vi
 
   </tr>
 </table>
+
+<a href="https://storyset.com/office">Illustration by Freepik Storyset</a>

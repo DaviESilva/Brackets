@@ -10,6 +10,9 @@
     height: 200px;
 }
 
+.es {
+    animation: go 2.4s;
+}
 
 .tes {
     animation: go-back 2.4s;
@@ -59,7 +62,6 @@
 
 .bandeira {
     width: 20%;
-    
 }
 
 .card-img img{
@@ -80,7 +82,59 @@
 }
 
 
+.bar {
+  position: relative;
+  fill: rgb(41,216,79);
+  /* height: 21px; */
+  transition: fill .3s ease;
+  cursor: pointer;
+  font-family: Helvetica, sans-serif;
+  display: inline-block;
+}
+
+.bar:hover,
+.bar:focus {
+  fill: #F2994A !important;
+}
+
+ text {
+    fill: #F2994A;
+  }
+
+
 /* RESULTS */
+.title {
+    font-size: 36px;
+    color: #F2994A;
+    font-weight: bolder;
+}
+
+.space {
+    margin-top: 1000px;
+}
+
+.docume {
+    color: #fff;
+    text-indent: 3ch;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+h5{
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+}
+
+.bg-test {
+    background-color: #F2994A;
+}
+
+.people {
+    border-radius: 50%;
+    width: 60%;
+    border:1px solid #F2994A;
+}
 
 .bg-primar {
     background-color: #F2994A;
@@ -109,6 +163,15 @@ svg{
     }
     100% {
         transform: translateX(0);
+    }
+}
+
+@keyframes go {
+    0% {
+        transform: translateY(150px);
+    }
+    100% {
+        transform: translateY(0);
     }
 }
 
@@ -145,3 +208,27 @@ svg{
                                     .animator-hidden {
                                         display: none;
                                     }
+
+
+                                svg#freepik_stories-personal-files:not(.animated) .animable {
+                                    opacity: 0;
+                                }
+                        
+                                svg#freepik_stories-personal-files.animated #freepik--Character--inject-7 {
+                                    animation: 1.5s 1 forwards cubic-bezier(.36, -0.01, .5, 1.38) slideUp;
+                                    animation-delay: 0s;
+                                }
+                        
+                                @keyframes slideUp {
+                                    0% {
+                                        opacity: 0;
+                                        transform: translateY(30px);
+                                    }
+                        
+                                    100% {
+                                        opacity: 1;
+                                        transform: inherit;
+                                    }
+                                }
+                                
+                           
