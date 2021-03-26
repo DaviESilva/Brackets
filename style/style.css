@@ -152,6 +152,50 @@ svg {
     width: 50%;
 }
 
+/* Ranking */
+
+.car {
+    height: 100px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #F2994A;
+    margin: 50px 0;
+}
+.back {
+    background-color: #fff;
+}
+
+.point img {
+    border-radius: 50%;
+    margin: 5px;
+    width: 80%;
+
+    
+}
+
+.point h6 { 
+    margin-top: 30px;
+}
+
+.point p {
+    margin-top: 30px;
+}
+
+.point h1 {
+    margin-top: 20px;
+}
+
+.bg-ranking {
+    background-color: #f1f2f3;
+}
+
+.va {
+    margin-top: 100px;
+}
+
 /* ANIMATION */
 
 @keyframes go-back {
