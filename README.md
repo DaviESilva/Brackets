@@ -1,9 +1,10 @@
 <h1 align="center">
   <img src="./img/logo.png">
-    Hackathon Smiles
 </h1>
 
-<p>
+<h1 align="center">
+    Hackathon Smiles
+</h1>
 
 ---
 
@@ -15,7 +16,6 @@ A <strong>Brackets</strong> vem com uma proposta de ajudar voçê a ter a sua vi
 - Plano de viagem completo;
 - Network com a comunidade;
 - Perfil com histórico;
-
 
 ---
 
