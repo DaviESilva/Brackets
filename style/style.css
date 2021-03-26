@@ -220,60 +220,77 @@ h2 {
     }
 }
 
-                                    svg#freepik_stories-traveling:not(.animated) .animable {
-                                        opacity: 0;
-                                    }
-                            
-                                    svg#freepik_stories-traveling.animated #freepik--Character--inject-19 {
-                                        animation: 1s 1 forwards ease-out lightSpeedRight;
-                                        animation-delay: 0s;
-                                    }
-                            
-                                    @keyframes lightSpeedRight {
-                                        from {
-                                            transform: translate3d(50%, 0, 0) skewX(-20deg);
-                                            opacity: 0;
-                                        }
-                            
-                                        60% {
-                                            transform: skewX(10deg);
-                                            opacity: 1;
-                                        }
-                            
-                                        80% {
-                                            transform: skewX(-2deg);
-                                        }
-                            
-                                        to {
-                                            opacity: 1;
-                                            transform: translate3d(0, 0, 0);
-                                        }
-                                    }
-                            
-                                    .animator-hidden {
-                                        display: none;
-                                    }
+    svg#freepik_stories-traveling:not(.animated) .animable {
+        opacity: 0;
+    }
+
+    svg#freepik_stories-traveling.animated #freepik--Character--inject-19 {
+        animation: 1s 1 forwards ease-out lightSpeedRight;
+        animation-delay: 0s;
+    }
+
+    @keyframes lightSpeedRight {
+        from {
+            transform: translate3d(50%, 0, 0) skewX(-20deg);
+            opacity: 0;
+        }
+
+        60% {
+            transform: skewX(10deg);
+            opacity: 1;
+        }
+
+        80% {
+            transform: skewX(-2deg);
+        }
+
+        to {
+            opacity: 1;
+            transform: translate3d(0, 0, 0);
+        }
+    }
+
+    .animator-hidden {
+        display: none;
+    }
 
 
-                                svg#freepik_stories-personal-files:not(.animated) .animable {
-                                    opacity: 0;
-                                }
-                        
-                                svg#freepik_stories-personal-files.animated #freepik--Character--inject-7 {
-                                    animation: 1.5s 1 forwards cubic-bezier(.36, -0.01, .5, 1.38) slideUp;
-                                    animation-delay: 0s;
-                                }
-                        
-                                @keyframes slideUp {
-                                    0% {
-                                        opacity: 0;
-                                        transform: translateY(30px);
-                                    }
-                        
-                                    100% {
-                                        opacity: 1;
-                                        transform: inherit;
-                                    }
-                                }
-                                
-                           
+svg#freepik_stories-personal-files:not(.animated) .animable {
+    opacity: 0;
+}
+
+svg#freepik_stories-personal-files.animated #freepik--Character--inject-7 {
+    animation: 1.5s 1 forwards cubic-bezier(.36, -0.01, .5, 1.38) slideUp;
+    animation-delay: 0s;
+}
+
+@keyframes slideUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: inherit;
+    }
+}
+
+
+/* Location Page */
+
+.location .parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .location .box {
+    flex: 1 1 150px; /*  Stretching: */
+    /* flex: 0 1 150px; /*  No stretching: */
+    margin: 2px;
+  }
+
+  .location img {
+      border-radius: 5px;
+  }
