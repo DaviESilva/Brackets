@@ -73,6 +73,27 @@
   align-items: center;
 }
 
+
+/* RESULTS */
+
+.bg-primar {
+    background-color: #F2994A;
+    border-radius: 5px;
+}
+
+h6 {
+    font-weight: bold;
+}
+
+.ha{
+    color: #F2994A;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+
+
+
 /* ANIMATION */
 @keyframes go-back {
     0% {
