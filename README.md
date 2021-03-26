@@ -23,6 +23,8 @@ A <strong>Brackets</strong> vem com uma proposta de ajudar voçê a ter a sua vi
   <img src="./img/Profile-img.png">
 </h1>
 
+## Contribuidores
+
 <table>
   <tr>
     <td align="center">
