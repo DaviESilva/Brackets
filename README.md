@@ -19,6 +19,10 @@ A <strong>Brackets</strong> vem com uma proposta de ajudar voçê a ter a sua vi
 
 ---
 
+<h1 align="center">
+  <img src="./img/Profile-img.png">
+</h1>
+
 <table>
   <tr>
     <td align="center">

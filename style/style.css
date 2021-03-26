@@ -31,6 +31,12 @@
 }
 
 /* PERFIL */
+.border-b {
+    border-bottom: 2px solid #F2994A;
+    margin: 0 20% 0px 20%;
+    padding-bottom: 5px;
+}
+
 .head {
     background: #fff;
 }
