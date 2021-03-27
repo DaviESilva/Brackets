@@ -334,3 +334,11 @@ svg#freepik_stories-personal-files.animated #freepik--Character--inject-7 {
     flex: 1 1 150px;
     margin: 5px;
 }
+
+.text-location {
+    border: 1px solid #F2994A;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.location2 {}
