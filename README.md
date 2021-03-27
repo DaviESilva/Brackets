@@ -20,11 +20,13 @@ A <strong>Brackets</strong> vem com uma proposta de ajudar voçê a ter a sua vi
 
 ---
 
-<h1 align="left" width="50%">
+<h1 align="center" >
   <img src="./img/Profile-img.png">
 </h1>
 
-<h1 align="right" width="50%">
+Faça Network e tira dúvidas com quem já viajou
+
+<h1 align="center" >
       <img src="./img/feed.png">
 </h1>
 
@@ -60,5 +62,5 @@ Seja ativo na plataforma e concorra a prêmios incriveis
 
 ## References
 
-<a href="https://storyset.com/office">Illustration by Freepik Storyset</a>
-<a href="https://icons8.com/icon/95101/pessoa-do-sexo-masculino">Pessoa do sexo masculino icon by Icons8</a>
+<a href="https://storyset.com">Illustration by Freepik Storyset</a>
+<a href="https://icons8.com"> icon by Icons8</a>
