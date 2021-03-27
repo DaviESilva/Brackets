@@ -47,4 +47,7 @@ A <strong>Brackets</strong> vem com uma proposta de ajudar voçê a ter a sua vi
   </tr>
 </table>
 
+## References
+
 <a href="https://storyset.com/office">Illustration by Freepik Storyset</a>
+<a href="https://icons8.com/icon/95101/pessoa-do-sexo-masculino">Pessoa do sexo masculino icon by Icons8</a>

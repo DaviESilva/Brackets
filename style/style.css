@@ -219,6 +219,23 @@ body {
     margin-top: 10px;
 }
 
+.logo-header {
+    width: 30px;
+    height: 30px;
+}
+
+.orange {
+    color: #F2994A;
+    font-size: 45px;
+}
+
+.orang h5 {
+    color: #F2994A;
+    font-size: 45px;
+}
+
+
+
 /* ANIMATION */
 
 @keyframes go-back {
