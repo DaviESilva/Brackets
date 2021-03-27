@@ -188,12 +188,35 @@ h2 {
     margin-top: 20px;
 }
 
-.bg-ranking {
-    background-color: #f1f2f3;
+body {
+    background-color: #f1f2f5;
 }
 
 .va {
     margin-top: 100px;
+}
+
+
+/* FEEED */
+.feed-picture img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.feed-card {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.link {
+    color: rgb(49, 140, 201);
+}
+
+.comment {
+    border-radius: 50%;
+    width: 10%;
+    margin-top: 10px;
 }
 
 /* ANIMATION */
