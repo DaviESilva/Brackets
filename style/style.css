@@ -200,13 +200,13 @@ body {
 /* FEEED */
 .feed-picture img {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 100%;
 }
 
 .feed-card {
     background-color: #fff;
     border-radius: 10px;
+    min-width: 200px
 }
 
 .link {
