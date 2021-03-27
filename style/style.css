@@ -164,6 +164,7 @@ h2 {
     color: #F2994A;
     margin: 50px 0;
 }
+
 .back {
     background-color: #fff;
 }
@@ -172,11 +173,9 @@ h2 {
     border-radius: 50%;
     margin-top: 25px;
     width: 100%;
-
-    
 }
 
-.point h6 { 
+.point h6 {
     margin-top: 30px;
 }
 
@@ -202,14 +201,12 @@ body {
     margin-top: 100px;
 }
 
-
-
 .lets div:first-child {
     min-width: 60px;
 }
 
-
 /* FEEED */
+
 .feed-picture img {
     border-radius: 50%;
     width: 100%;
@@ -238,7 +235,6 @@ body {
 
 .orange {
     color: #F2994A;
-
 }
 
 .orang h5 {
@@ -250,7 +246,6 @@ body {
     font-weight: bold;
     color: #666;
 }
-
 
 /* ANIMATION */
 
@@ -357,4 +352,18 @@ svg#freepik_stories-personal-files.animated #freepik--Character--inject-7 {
     padding: 5px;
 }
 
-.location2 {}
+a {
+    text-decoration: none;
+    color: #F2994A;
+}
+
+/* INDEX */
+
+.index {
+    display: grid;
+    grid-template-columns: minmax(150px, 40%) 1fr;
+}
+
+.index .login {
+    background-image: linear-gradient(#FF0303, #ff5900);
+}
