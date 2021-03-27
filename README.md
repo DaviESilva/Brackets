@@ -8,6 +8,10 @@
 
 ---
 
+Essa aplicação pode ser vista em <a href="https://brackets-smiles.vercel.app/">Brackets</a>
+
+---
+
 ## Brackets
 
 Com o objetivo de criar um programa de fidelidade para que a viagem dos sonhos seja mais acessível, inclusivo e democrático, <br>
