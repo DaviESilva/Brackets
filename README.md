@@ -31,14 +31,14 @@ A <strong>Brackets</strong> vem com uma proposta de ajudar voçê a ter a sua vi
 Faça Network e tira dúvidas com quem já viajou
 
 <h1 align="center" >
-      <img src="./img/feed.png" style="width:50%; height: auto">
+      <img src="./img/feed.png" style="width:400; height: auto">
+</h1>
+
+<h1 align="center">
+      <img src="./img/ranking.png" style="width:400; height: auto">
 </h1>
 
 Seja ativo na plataforma e concorra a prêmios incriveis
-
-<h1 align="center">
-      <img src="./img/ranking.png" style="width:50%; height: auto">
-</h1>
 
 ## Contribuidores
 
