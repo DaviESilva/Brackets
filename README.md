@@ -32,7 +32,7 @@ Faça Network e tira dúvidas com quem já viajou
 
 <img src="./img/feed.png" width:"350">
 
-<a href="http://google.com" title="example image"><img src="screenshot.png" width="300"></a>
+<a href="https://brackets-smiles.vercel.app" title="feed image"><img src="./img/feed.png" width="300"></a>
 
 <img src="./img/ranking.png" width:"50%">
 
