@@ -16,11 +16,22 @@ A <strong>Brackets</strong> vem com uma proposta de ajudar voçê a ter a sua vi
 - Plano de viagem completo;
 - Network com a comunidade;
 - Perfil com histórico;
+- Ranking de Influencers;
 
 ---
 
-<h1 align="center">
+<h1 align="left" width="50%">
   <img src="./img/Profile-img.png">
+</h1>
+
+<h1 align="right" width="50%">
+      <img src="./img/feed.png">
+</h1>
+
+Seja ativo na plataforma e concorra a prêmios incriveis
+
+<h1 align="center">
+      <img src="./img/ranking.png">
 </h1>
 
 ## Contribuidores
