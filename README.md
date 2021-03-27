@@ -30,12 +30,8 @@ A <strong>Brackets</strong> vem com uma proposta de ajudar voçê a ter a sua vi
 
 Faça Network e tira dúvidas com quem já viajou
 
-<img src="./img/feed.png" width:"350">
-
 <a href="https://brackets-smiles.vercel.app" title="feed image"><img src="./img/feed.png" width="300"></a>
-
-<img src="./img/ranking.png" width:"50%">
-
+<a href="https://brackets-smiles.vercel.app" title="ranking image"><img src="./img/ranking.png" width="50%"></a>
 
 Seja ativo na plataforma e concorra a prêmios incriveis
 
