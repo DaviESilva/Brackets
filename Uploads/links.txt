@@ -1,0 +1,2 @@
+d) Link público do repositório: https://github.com/DaviESilva/Brackets
+e) Link da solução: https://brackets-smiles.vercel.app
