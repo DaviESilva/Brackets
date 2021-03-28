@@ -9,7 +9,6 @@
     height: 200px;
 }
 
-
 .se {
     animation: g 2.4s;
 }
@@ -123,6 +122,12 @@ text {
 }
 
 h5 {
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+}
+
+.white-title {
     font-weight: bold;
     text-align: center;
     color: #fff;
@@ -378,13 +383,10 @@ a {
     grid-template-columns: minmax(150px, 40%) 1fr;
 }
 
-
-
 .gradient {
-        background-image: linear-gradient( #FF1D16, #FF7436);
-        border-radius: 0px 0 0 500px;
-    }
-
+    background-image: linear-gradient( #FF1D16, #FF7436);
+    border-radius: 0px 0 0 500px;
+}
 
 .gradient h3 {
     color: #fff;
@@ -395,14 +397,12 @@ a {
     height: 100vh;
     display: grid;
     place-items: center;
-
 }
 
-.op  h1{
+.op h1 {
     color: #fff;
     font-weight: bolder;
     font-size: 45px;
-
 }
 
 .hg h3:nth-child(2) {
@@ -414,4 +414,3 @@ a {
     font-size: 25px;
     font-weight: bold;
 }
-
