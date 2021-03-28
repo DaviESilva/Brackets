@@ -1,2 +1,5 @@
-d) Link público do repositório: https://github.com/DaviESilva/Brackets
-e) Link da solução: https://brackets-smiles.vercel.app
+a) Vídeo Pitch:                     
+b) Vídeo Demo:                      
+c) Apresentação:                    
+d) Link público do repositório:     https://github.com/DaviESilva/Brackets
+e) Link da solução:                 https://brackets-smiles.vercel.app
