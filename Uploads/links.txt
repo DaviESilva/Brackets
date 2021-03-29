@@ -1,5 +1,5 @@
 a) Vídeo Pitch:                     
-b) Vídeo Demo:                      
+b) Vídeo Demo:                      https://youtu.be/1CkmOqePMt0
 c) Apresentação:                    
 d) Link público do repositório:     https://github.com/DaviESilva/Brackets
 e) Link da solução:                 https://brackets-smiles.vercel.app
