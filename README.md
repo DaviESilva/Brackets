@@ -35,6 +35,10 @@ Faça Network e tira dúvidas com quem já viajou
 
 Seja ativo na plataforma e concorra a prêmios incriveis
 
+
+<a href="https://brackets-smiles.vercel.app" title="certification image"><img src="./Hackathon_Smiles.pnf"></a>
+Certificação
+
 ## Contribuidores
 
 <table>
