@@ -36,7 +36,7 @@ Faça Network e tira dúvidas com quem já viajou
 Seja ativo na plataforma e concorra a prêmios incriveis
 
 
-<a href="./Hackathon_Smiles.pdf" title="certification image"><img src="./Hackathon_Smiles.pdf">Certificação</a>
+<a href="./Hackathon_Smiles.pdf" title="certification image">Certificação</a>
 
 
 ## Contribuidores
